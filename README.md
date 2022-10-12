@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c2run
 - 👀 I’m interested in Android, web, Java, Unreal Engine
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning Laravel and Unreal Engine 4
 - 💞️ I’m looking to collaborate on Android, Java, Unreal Engine 4, PHP, Laravel.
 - 📫 How to reach me email me: jose.cerda66@gmail.com, https://www.josecerdanunez.cl/
 
